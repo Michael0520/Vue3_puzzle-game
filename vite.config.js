@@ -39,6 +39,8 @@ export default ({
 
       alias: {
         "@": path.resolve(__dirname, "src"),
+        dist: path.resolve(__dirname, "dist"),
+        public: path.resolve(__dirname, "public"),
         components: path.resolve(__dirname, "src/components"),
         styles: path.resolve(__dirname, "src/styles"),
         views: path.resolve(__dirname, "src/views"),

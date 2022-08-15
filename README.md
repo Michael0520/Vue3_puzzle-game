@@ -1,0 +1,30 @@
+# vue-pizzle-game
+
+- **template of:** vite + vue
+- **tailwindcss:** v3.x
+
+## Started
+```bash
+yarn
+# or `npm install`
+```
+
+---
+## Develop
+```bash
+yarn dev
+# or `npm run dev`
+```
+
+---
+## Build
+```bash
+yarn build
+# or `npm run build`
+```
+
+---
+<p align="center">
+<img src="./powered-by-vitawind-bright.png">
+</p># Vue3_puzzle-game
+# Vue3_puzzle-game

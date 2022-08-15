@@ -71,7 +71,7 @@ const resetClick = (item, index) => {
 }
 
 onMounted(() => {
-  axios.get("public/api/puzzle.json").then((res) => {
+  axios.get("./api/puzzle.json").then((res) => {
     defaultArr.arr = res.data
     console.log(defaultArr);
   })
